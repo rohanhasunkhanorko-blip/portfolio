@@ -31,11 +31,9 @@ REPOSITORY-METADATA.md     Suggested GitHub configuration
 
 ## Screenshots
 
-Add real project captures to `assets/images/` before promoting the site. The project pages deliberately show placeholders rather than fabricated imagery.
 
-## Deployment
-
-GitHub Pages, Cloudflare Pages, or Netlify are suitable static hosts. Configure deployment only after the remote repository has been renamed to `portfolio`.
+## Deployment:
+https://rhk-dev.vercel.app/
 
 ## Licence
 

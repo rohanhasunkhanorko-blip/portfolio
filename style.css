@@ -20,6 +20,13 @@
   --line: #d8dde5;
   --accent: #075d9c;
 }
+.project-image {
+  width: 100%;
+  margin-top: 2.25rem;
+  border-radius: .65rem;
+  border: 1px solid var(--line);
+  background: var(--surface);
+}
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
